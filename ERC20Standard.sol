@@ -6,7 +6,7 @@ library SafeMath {
         if (a == 0) {
             return 0;
         }
-
+енкен
         uint256 c = a * b;
         require(c / a == b);
 
